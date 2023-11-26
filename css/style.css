@@ -221,22 +221,22 @@ span {
     justify-content: space-evenly;
     margin-left: 10%;
     margin-right: 10%;
-    background-color: whitesmoke;
+    background-color: #e3e6e6;
     top: 10px;
 }
 
 .box {
-    height: 350px;
+    border-radius: 5px;
+    height: 380px;
     width: 23%;
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
 }
 
-.box1 {}
-
 .box-img {
-    height: 280px;
+    height: 300px;
+    border-radius: 5px;
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
